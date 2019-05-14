@@ -4,7 +4,7 @@
 
 https://docs.docker.com/install/linux/docker-ce/ubuntu/
 
-## Use hyper-send
+## Use hyper-serial-send
 
 Build the Docker container using:
 
