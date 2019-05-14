@@ -4,13 +4,15 @@
 
 https://docs.docker.com/install/linux/docker-ce/ubuntu/
 
-## Use hyper-serial-send
+## Build the Docker image 
 
-Build the Docker container using:
+Build the Docker image using:
 
 > ./build.sh
 
-Then run with:
+## Run the Docker image
+
+Run with:
 
 > ./run.sh
 
