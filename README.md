@@ -1,4 +1,4 @@
-# Hyper-send
+# Hyper-serial-send
 
 ## Install Docker
 
